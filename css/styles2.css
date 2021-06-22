@@ -30,6 +30,11 @@ body, html {
     border-radius: 50%;
 }
 
+.card-img-top {
+    height: 13rem;
+
+}
+
 @keyframes fade-in {
     0%{opacity: 0;}
     100%{opacity: 1;}
